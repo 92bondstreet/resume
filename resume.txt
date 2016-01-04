@@ -1,0 +1,190 @@
+YASSINE AZZOUT
+Code Writer
+
+
+CONTACT
+...........................................................................................................................................
+
+yassine.azzout@gmail.com
+http://jeprogram.me
+https://github.com/92bondstreet
+http://linkedin.com/in/yassineazzout
+@azzouty
++33629583939
+
+
+PERSONAL STATEMENT
+...........................................................................................................................................
+
+I'm a (re)Creative Digital {Architect, Developer} with a very atypical professionally path for 10 years.
+After a diploma in Mathematics Engineering, I decided to become a Code Writer and
+have been working as a digital artisan and developer since 2005.
+One of the greatest things about being a web developer with an engineer background is
+that not only can I take care of the graphical and technical aspects of a project, but can
+also fully understand, participate and even take care of the highly technical aspects of those projects.
+
+
+MY 3 DAY-TO-DAY ACTIVITIES
+...........................................................................................................................................
+
+* Captain
+* Best Practices Evangelist
+* Happiness Coder and solver
+
+
+EDUCATION
+...........................................................................................................................................
+
+Engineer’s degree   1999 - 2004
+Mathematics and Scientific Modeling.
+ESILV - Paris La Défense
+
+The Personal MBA   2009-present
+Reader.
+Josh Kaufman Reading List
+
+Certified Scrum Developer  2013
+Scrum Alliance
+
+
+WORK EXPERIENCE
+...........................................................................................................................................
+
+* 1 year Professor (adjunct professor) at Ecole D'Ingénieurs - Paris La Défense from 2015 to today
+
+* 2 years as Front-End Captain at Synthesio from 2014 to today
+
+* 9 years as Enthusiast Developer at Airbus Defence & Space From 2005 to 2014
+
+
+10 YEARS OF PROGRAMMING EVOLUTION
+(See below for more details)
+...........................................................................................................................................
+
+01. Languages
+
+* JavaScript Ecosystem
+* PHP, Ruby
+* Java
+* C#, J#
+* C, C++
+
+02. Environment
+
+* OSX + Atom + Terminal Hacker + Tmux + Productivity Hacker
+* OSX + Sublime Text
+* Linux + Eclipse
+* Windows + Visual Studio
+
+03. Source Code Management
+
+* GIT
+* Mercurial
+* SVN
+
+04. Methodology
+
+* Software Craftmanship
+* Agile, Scrum
+* PMBOK
+
+
+INTERESTS
+...........................................................................................................................................
+
+* Gastronomy
+* Fashion design
+* Alexandre Dumas
+* Self-Defense and Urban Survival
+* Open-Source
+* Suits
+* Wikipedia
+* Soccer
+* Crossﬁt
+
+
+========================
+10 years of code writing
+In details
+========================
+
+
+JAVASCRIPT LOVER
+...........................................................................................................................................
+
+* Javascript itself
+* Node ecosystem and npm world
+* Utility: jQuery, Mootools, Lo-Dash, Underscore, Backbone, RequireJS, docco...
+* Task runner: Grunt, Gulp
+* Wrapper: Nightmare, PhantomJS
+* Dataviz: d3.js, dc.js, crossfilter, FusionCharts
+* {B,T}DD: Mocha, Istanbul
+
+WEB WORLD
+...........................................................................................................................................
+
+* Html, CSS (with sass preprocessor)
+* Scripts: PHP, Ruby, Python, Bash
+* CMS: Medium, Wordpress
+* Flex, AS3
+* API: Facebook, Twitter, gmaps...
+* Cross {browser, device}: polyfill, responsive, mobile
+* Photoshop, Illustrator
+
+ARCHITECTURE
+...........................................................................................................................................
+
+* Pick’n’Mix, Micro-Librairies, Web components, Design Patterns, API Rest
+* RDD+CDD+TDD
+
+
+CODE MANAGEMENT
+...........................................................................................................................................
+
+* Git, Mercurial, SVN
+* GitHub, GitLab
+* Jenkins, Travis, Redmine, Jira
+
+
+COMPILED LANGUAGES
+...........................................................................................................................................
+
+* C, C++, C#, Java
+
+
+DATABASE
+...........................................................................................................................................
+
+* MySQL, PostgreSQL, MongoDB, Redis
+
+
+SERVER
+...........................................................................................................................................
+
+* Apache, Tomcat, Node, Nginx
+* Debian, Vagrant
+
+
+PHILOSOPHY
+...........................................................................................................................................
+
+* Alternative
+* Break Rules
+* Capture
+* Clarity
+* Creative
+* Debrief
+* Execute
+* Lead
+* Organize
+* Out of the Box
+* Reading Game
+* Simple
+* Think Fast and Slow
+* Human
+* Story
+* Entrepreneur
+* Customers
+* Users
+* Surpass
+* Improve

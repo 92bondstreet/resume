@@ -1,0 +1,206 @@
+{
+  "basics": {
+    "name": "Yassine AZZOUT",
+    "label": "Responsable de développement",
+    "picture": "",
+    "email": "yassine.azzout@gmail.com",
+    "phone": "0629583939",
+    "website": "http://jeprogram.me",
+    "summary": "Je suis un {Architecte, Développeur} numérique avec un parcours professionnel très atypique de plus de 10 ans.  Après un diplôme en mathématiques, j'ai décidé de devenir un artisan du numérique et développeur depuis 2005.  L'avantage de développer pour le web avec un arrière-plan de l'ingénieur est que non seulement je peux prendre en compte les aspects fonctionnels  d'un projet mais comprendre, participer et même prendre en charge les aspects hautement techniques.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "92bondstreet",
+        "url": "https://github.com/92bondstreet"
+      },
+      {
+        "network": "Twitter",
+        "username": "azzouty",
+        "url": "https://twitter.com/azzouty"
+      },
+      {
+        "network": "Linkedin",
+        "username": "yassineazzout",
+        "url": "http://linkedin.com/in/yassineazzout"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Synthesio",
+      "position": "Responsable développement",
+      "website": "http://www.synthesio.com/",
+      "startDate": "Février 2014",
+      "endDate": "Janvier 2015",
+      "summary": "Capitaine de l'équipe Front-End: pivot entre les développeurs, le CTO, VP Eng et les PO. Mise en place des bonnes pratiques de développement. Développeur JS et Bug Tracker",
+      "highlights": [
+        "Point de contact entre l'équipe Front et le Responsable produit, ingénierie et le Directeur Technique",
+        "Mis en place des bonnes pratiques : Scrum, TDD, Revue de code, automatisation...",
+        "Ecosystème Javascript: npm, grunt, atom, browserify, mvc, backbone, micro-templating, polyfill...",
+        "Investigation et maintenance",
+        ""
+      ]
+    },
+    {
+      "company": "AIRBUS",
+      "position": "Responsable développement",
+      "website": "http://www.airbus.com/",
+      "startDate": "Janvier 2011",
+      "endDate": "Janvier 2014",
+      "summary": "Lien entre le produit et les utilisateurs",
+      "highlights": [
+        "Architecture",
+        "Définition des besoins et développement",
+        "Planning et gestion d'équipe",
+        "Maintenance",
+        ""
+      ]
+    },
+    {
+      "company": "AIRBUS",
+      "position": "Développeur",
+      "website": "http://www.airbus.com/",
+      "startDate": "Janvier 2005",
+      "endDate": "Décembre 2010",
+      "summary": "Développeur d'une application d'imagerie",
+      "highlights": [
+        "Développement",
+        "Formation",
+        "Présentateur lors de démonstration",
+        ""
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "ESILV",
+      "area": "Calcul Scientifique",
+      "studyType": "Diplôme d'Ingénieur",
+      "startDate": "Septembre 1999",
+      "endDate": "Décembre 2004",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Le monde Javascript",
+      "level": "",
+      "keywords": [
+        "ES5, ES6",
+        "Node et npm",
+        "Gestion des tâches : Grunt et Gulp",
+        "Wrapper comme Nightmare, PhantomJS",
+        "Dataviz: d3.js, dc.js, crossfilter, FusionCharts",
+        "{B,T}DD: Mocha, Istanbul"
+      ]
+    },
+    {
+      "name": "Le monde Web",
+      "level": "",
+      "keywords": [
+        "Html, CSS (with sass preprocessor)",
+        "Scripts: PHP, Ruby, Python, Bash",
+        "CMS: Medium, Wordpress",
+        "Flex, AS3",
+        "API: Facebook, Twitter, gmaps...",
+        "Cross {browser, device}: polyfill, responsive, mobile",
+        "Photoshop, Illustrator"
+      ]
+    },
+    {
+      "name": "Architecture",
+      "level": "",
+      "keywords": [
+        "Pick’n’Mix, Micro-Librairies, Web components, Design Patterns, API Rest",
+        "RDD+CDD+TDD"
+      ]
+    },
+    {
+      "name": "Gestion de source code",
+      "level": "",
+      "keywords": [
+        "Git, Mercurial, SVN",
+        "GitHub, GitLab",
+        "Jenkins, Travis, Redmine, Jira"
+      ]
+    },
+    {
+      "name": "Langages compilés",
+      "level": "",
+      "keywords": [
+        "C, C++, C#, Java"
+      ]
+    },
+    {
+      "name": "Base de données",
+      "level": "",
+      "keywords": [
+        "MySQL, PostgreSQL, MongoDB, Redis"
+      ]
+    },
+    {
+      "name": "Serveur",
+      "level": "",
+      "keywords": [
+        "Apache, Tomcat, Node, Nginx",
+        "Debian, Vagrant"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Français",
+      "fluency": "Langue maternelle"
+    },
+    {
+      "language": "Anglais",
+      "fluency": "Niveau Business"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Gastronomie",
+      "keywords": []
+    },
+    {
+      "name": "Industrie et économie de la mode ",
+      "keywords": []
+    },
+    {
+      "name": "Alexandre Dumas",
+      "keywords": []
+    },
+    {
+      "name": "Self-Defense et survie urbaine",
+      "keywords": []
+    },
+    {
+      "name": "Open-Source",
+      "keywords": []
+    },
+    {
+      "name": "Wikipedia",
+      "keywords": []
+    },
+    {
+      "name": "Football",
+      "keywords": []
+    },
+    {
+      "name": "",
+      "keywords": []
+    }
+  ],
+  "references": []
+}
